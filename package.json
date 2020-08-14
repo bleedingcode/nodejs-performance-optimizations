@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-performance-optimization",
+  "version": "0.0.1",
+  "description": "Source Code for live demos via Bleeding Code tutorials",
+  "main": "server.js",
+  "private": true,
+  "scripts": {},
+  "engines": {
+    "node": "12.18.3"
+  },
+  "author": "Agilit-e",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "0.19.2",
+    "bcrypt": "5.0.0",
+    "mongoose": "5.9.29"
+  }
+}
