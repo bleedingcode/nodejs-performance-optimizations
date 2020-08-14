@@ -1,7 +1,12 @@
-<center><img src="./assets/bleeding-code-logo-slogan.jpg" width="400"></center>
-<br>
-
-![Logo of the project](./assets/bleeding-code-logo-slogan.jpg | width=400)
+<p align="center">
+  <a href="https://youtube.com/bleedingcode">
+    <img
+      alt="Bleeding Code"
+      src="./assets/bleeding-code-logo-slogan.jpg"
+      width="400"
+    />
+  </a>
+</p>
 
 # nodejs-performance-optimization
 > Source Code for live demos via Bleeding Code tutorials
