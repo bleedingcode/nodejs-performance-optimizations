@@ -1,6 +1,8 @@
 <center><img src="./assets/bleeding-code-logo-slogan.jpg" width="400"></center>
 <br>
 
+![Logo of the project](./assets/bleeding-code-logo-slogan.jpg | width=400)
+
 # nodejs-performance-optimization
 > Source Code for live demos via Bleeding Code tutorials
 
