@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# nodejs-performance-optimization
+# nodejs-performance-optimizations
 > Source Code for live demos via Bleeding Code tutorials
 
 ## Table of Contents
@@ -34,7 +34,7 @@
 
 ## Contributing
 
-1. Fork it (<https://github.com/bleedingcode/nodejs-performance-optimization/fork>)
+1. Fork it (<https://github.com/bleedingcode/nodejs-performance-optimizations/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
