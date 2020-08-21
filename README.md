@@ -34,7 +34,7 @@
 
 ## How To Determine Application Baseline Performance In Node JS
 
-- Watch [YouTube Video](https://youtu.be/ol56smloW2Q)
+- Watch [YouTube Video](https://youtu.be/VlgbcarMoVQ)
 - Source Code Folder: [03-app-baseline-performance](/03-app-baseline-performance)
 
 ## Contributing
