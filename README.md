@@ -16,6 +16,7 @@
 - [Project Resources](#table-of-contents)
     - [Testing The Event Loop Phases](#testing-the-event-loop-phases)
     - [What Type Of Async Function Am I Running](#what-type-of-async-function-am-i-running)
+    - [How To Determine Application Baseline Performance In Node JS](#how-to-determine-application-baseline-performance-in-node-js)
 - [Contributing](#contributing)
 - [Links](#links)
 - [License](#license)
@@ -28,9 +29,13 @@
 
 ## What Type Of Async Function Am I Running
 
-- Watch [YouTube Video](https://youtu.be/ol56smloW2Q)
-- Read [Blog Post](http://bleedingcode.com/managing-the-event-loop-phases/)
+- Watch [YouTube Video](https://youtu.be/yiBLmRRRx-k)
 - Source Code Folder: [02-async-hooks-types-of-async-functions](/02-async-hooks-types-of-async-functions)
+
+## How To Determine Application Baseline Performance In Node JS
+
+- Watch [YouTube Video](https://youtu.be/ol56smloW2Q)
+- Source Code Folder: [03-app-baseline-performance](/03-app-baseline-performance)
 
 ## Contributing
 
