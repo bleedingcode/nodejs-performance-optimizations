@@ -17,6 +17,7 @@
     - [Testing The Event Loop Phases](#testing-the-event-loop-phases)
     - [What Type Of Async Function Am I Running](#what-type-of-async-function-am-i-running)
     - [How To Determine Application Baseline Performance In Node JS](#how-to-determine-application-baseline-performance-in-node-js)
+    - [How To Test The Availability Of Your API Server](#how-to-test-the-availability-of-your-api-server)
 - [Contributing](#contributing)
 - [Links](#links)
 - [License](#license)
@@ -36,6 +37,11 @@
 
 - Watch [YouTube Video](https://youtu.be/VlgbcarMoVQ)
 - Source Code Folder: [03-app-baseline-performance](/03-app-baseline-performance)
+
+## How To Test The Availability Of Your API Server
+
+- Watch [YouTube Video](https://youtu.be/VlgbcarMoVQ)
+- Source Code Folder: [04-api-server-availability](/04-api-server-availability)
 
 ## Contributing
 
