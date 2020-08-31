@@ -40,7 +40,7 @@
 
 ## How To Test The Availability Of Your API Server
 
-- Watch [YouTube Video](https://youtu.be/VlgbcarMoVQ)
+- Watch [YouTube Video](https://youtu.be/JwFDEJj3CKM)
 - Source Code Folder: [04-api-server-availability](/04-api-server-availability)
 
 ## Contributing
