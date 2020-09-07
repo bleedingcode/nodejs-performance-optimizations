@@ -1,6 +1,6 @@
 {
   "name": "nodejs-performance-optimization",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Source Code for live demos via Bleeding Code tutorials",
   "main": "server.js",
   "private": true,
