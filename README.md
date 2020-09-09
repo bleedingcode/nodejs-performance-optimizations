@@ -18,7 +18,7 @@
     - [What Type Of Async Function Am I Running](#what-type-of-async-function-am-i-running)
     - [How To Determine Application Baseline Performance In Node JS](#how-to-determine-application-baseline-performance-in-node-js)
     - [How To Test The Availability Of Your API Server](#how-to-test-the-availability-of-your-api-server)
-    - [Increase Node JS Performance With Threadpool Management](#increase-node-js-performance-with-threadpool-management)
+    - [Increase Node JS Performance With Thread Pool Management](#increase-node-js-performance-with-thread-pool-management)
 - [Contributing](#contributing)
 - [Links](#links)
 - [License](#license)
@@ -44,9 +44,9 @@
 - Watch [YouTube Video](https://youtu.be/JwFDEJj3CKM)
 - Source Code Folder: [04-api-server-availability](/04-api-server-availability)
 
-## Increase Node JS Performance With Threadpool Management
+## Increase Node JS Performance With Thread Pool Management
 
-- Watch [YouTube Video](https://youtu.be/JwFDEJj3CKM)
+- Watch [YouTube Video](https://youtu.be/LC5FC3FdzAE)
 - Source Code Folder: [05-libuv-threadpool](/05-libuv-threadpool)
 
 ## Contributing
