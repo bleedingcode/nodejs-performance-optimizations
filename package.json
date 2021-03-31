@@ -10,7 +10,9 @@
   },
   "author": "Agilit-e",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "standard": "16.0.3"
+  },
   "dependencies": {
     "axios": "0.19.2",
     "bcrypt": "5.0.0",
@@ -19,6 +21,8 @@
     "express": "4.17.1",
     "helmet": "4.1.0",
     "mongoose": "5.9.29",
-    "morgan": "1.10.0"
+    "morgan": "1.10.0",
+    "piscina": "1.6.3",
+    "workerpool": "6.0.0"
   }
 }
